@@ -1,4 +1,4 @@
-me: Ola Mundo
+name: Ola Mundo
 on: push
 jobs:
   saudacao:
