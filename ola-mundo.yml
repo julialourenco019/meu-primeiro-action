@@ -4,5 +4,5 @@ jobs:
   saudacao:
     runs-on: ubuntu-latest
     steps:
-      - name: Dizer ola
+      - name: Dizer ola2
         run: echo "Ola, mundo! Meu primeiro GitHub Action."
